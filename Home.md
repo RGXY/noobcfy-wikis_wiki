@@ -10,7 +10,7 @@
 iptables   
 tinyPortMapper  
 socat  
-gost(不加密中转、tls、ws、wss)  
+gost(不加密、tls、ws、wss)  
 
   网络工具类插件  
 iperf3
