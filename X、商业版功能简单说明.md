@@ -1,5 +1,7 @@
 ## 公测阶段 安装请使用安装脚本选择9 输入 2.0.0 即可将现有版本升级至商业版。
-
+```shell
+bash <(wget --no-check-certificate -qO- 'https://sh.xdmb.xyz/xiandan/xd.sh')
+```
 [DEMO 传送门](http://demo.xdmb.xyz)
 
 功能介绍
