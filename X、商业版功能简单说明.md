@@ -1,3 +1,5 @@
+## 公测阶段 安装请使用安装脚本选择9 输入 2.0.0 即可将现有版本升级至商业版。
+
 ![商店](https://github.com/noobcfy/wikis/blob/dev/Screenshots/shop.png)  
 
 ### 1、支付管理  
