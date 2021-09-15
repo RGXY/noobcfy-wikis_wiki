@@ -82,7 +82,8 @@ bash <(wget --no-check-certificate -qO- 'https://sh.xdmb.xyz/xiandan/xd.sh')
 
 
 ### 5、商店  
-简易发卡站 购买后将卡密发送至买家指定邮箱，用户使用卡密在注册页面进行注册。
+![注册](https://github.com/noobcfy/wikis/blob/dev/Screenshots/register.png)  
+简易发卡站没什么好说的 购买后将卡密发送至买家指定邮箱，用户使用卡密在注册页面进行注册，现有用户可在登录后右上角使用商品码。
 
 ### 6、注册
 ![注册](https://github.com/noobcfy/wikis/blob/dev/Screenshots/register.png)
