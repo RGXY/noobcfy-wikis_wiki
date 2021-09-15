@@ -16,7 +16,7 @@ bash <(wget --no-check-certificate -qO- 'https://sh.xdmb.xyz/xiandan/xd.sh')
 [安卓监控端下载](https://sh.xdmb.xyz/vmq.apk)  
 [Win监控端下载](https://sh.xdmb.xyz/vmq-win-5.3.zip)   
 
-聚合支付保存后会生成 apiToken，在监控端输入 面板访问地址和 apiToken即可完成收款监控，支持 微信/支付宝。
+聚合支付保存后会生成 apiToken，在监控端输入 面板访问地址和 apiToken即可完成收款监控，暂时仅支持 微信/支付宝，其他支付方式请手动审核订单。
 
 ### 2、商品管理  
 ##### 2.1、商品分类  
