@@ -14,7 +14,9 @@ bash <(wget --no-check-certificate -qO- 'https://sh.xdmb.xyz/xiandan/xd.sh')
 为上传普通收款二维码的方式，需上传普通的收款二维码图片用于收款。已集成V免签回调接口，可以下载V免签安桌端、或win端监控程序实现自动收款。  
   
 [安卓监控端下载](https://sh.xdmb.xyz/vmq.apk)  
-[Win监控端下载](https://sh.xdmb.xyz/vmq-win-5.3.zip)  
+[Win监控端下载](https://sh.xdmb.xyz/vmq-win-5.3.zip)   
+
+聚合支付保存后会生成 apiToken，在监控端输入 面板访问地址和 apiToken即可完成收款监控，支持 微信/支付宝。
 
 ### 2、商品管理  
 ##### 2.1、商品分类  
