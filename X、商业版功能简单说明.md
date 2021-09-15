@@ -12,6 +12,7 @@ bash <(wget --no-check-certificate -qO- 'https://sh.xdmb.xyz/xiandan/xd.sh')
 ##### 1.2、聚合支付  
 ![聚合支付](https://github.com/noobcfy/wikis/blob/dev/Screenshots/payMethod2.png)  
 为上传普通收款二维码的方式，需上传普通的收款二维码图片用于收款。已集成V免签回调接口，可以下载V免签安桌端、或win端监控程序实现自动收款。  
+由于V免签客户端仅支持http模式的请求，请务必保证面板http可访问，不要强制使用https，否则可能导致回调不生效。  
   
 [安卓监控端下载](https://sh.xdmb.xyz/vmq.apk)  
 [Win监控端下载](https://sh.xdmb.xyz/vmq-win-5.3.zip)   
